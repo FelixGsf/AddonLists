@@ -1,0 +1,9 @@
+{
+	"name": "BSW1",
+	"description": "Esté es un shader que remplaza los antiguos shaders\nde la week1\nmejorando la calidad visual por algo mas agradable y suave a la vista",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [170, 0, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}
